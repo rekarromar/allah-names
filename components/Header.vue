@@ -1,7 +1,8 @@
 <template>
-  <div class="flex justify-between">
-    <h1 class="font-ir">asdf</h1>
-    <h1 class="font-ir">ناوەکانی خوای گەورە</h1>
+  <div class="w-full">
+    <h1 class="font-bold font-lexend text-4xl text-center uppercase">
+      Allah Names
+    </h1>
   </div>
 </template>
 

@@ -1,15 +1,13 @@
 <template>
-  <div class="" v-for="n in data.data" :key="n">
-    <div class="flex flex-col items-center">
-      <h1>{{ n.name }}</h1>
-      <p>{{ n.en.meaning }}</p>
+  <div class="p-4 grid gap-5 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+    <div v-for="n in data.data" :key="n.number">
+      <NuxtLink :to="`${n.number}`">
+        <NamesContainer :name="n.name" :meaning="n.en.meaning" />
+      </NuxtLink>
     </div>
   </div>
 </template>
 
 <script setup>
-const number = Math.floor(Math.random() * 101);
-const random = number == 0 ? number + 1 : number == 100 ? number - 1 : number;
-const url = "https://api.aladhan.com/v1/asmaAlHusna/" + random;
-const { data } = await useFetch(url);
+const { data: data } = await useFetch("https://api.aladhan.com/v1/asmaAlHusna");
 </script>

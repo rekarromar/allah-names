@@ -3,6 +3,28 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: "ir";
-    src: url("../fonts/ir_sans.ttf");
+    font-family: "lexend";
+    src: url("../fonts/LexendDeca.ttf");
+}
+
+@font-face {
+    font-family: "name";
+    src: url("../fonts/name.ttf");
+}
+
+@font-face {
+    font-family: "meaning";
+    src: url("../fonts/meaning.ttf");
+}
+
+
+.page-enter-active,
+.page-leave-active {
+  transition: all 0.4s;
+}
+
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+  transform: scale(1)
 }

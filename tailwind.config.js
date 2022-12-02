@@ -10,8 +10,16 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'brackets': "url(/assets/images/topography.svg)" 
+      },
+      colors: {
+        sur: "#E77728"
+      },
       fontFamily: {
-        ir: ['ir', 'sans-serif'],
+        lexend: ['lexend', 'sans-serif'],
+        name: ['name', 'sans-serif'],
+        meaning: ['meaning', 'sans-serif'],
       },
     },
   },
