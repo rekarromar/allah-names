@@ -14,7 +14,7 @@ module.exports = {
         'brackets': "url(/assets/images/topography.svg)" 
       },
       colors: {
-        sur: "#E77728"
+        sur: "#011936"
       },
       fontFamily: {
         lexend: ['lexend', 'sans-serif'],
