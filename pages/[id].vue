@@ -2,9 +2,8 @@
   <div class="flex flex-col items-center justify-between h-full">
     <div class=""></div>
 
-    <div v-for="n in data.data" :key="n" class="">
-      <NameContainer :name="n.name" :meaning="n.en.meaning" />
-    </div>
+    <NameContainer :name="data" />
+
     <div class="flex items-center justify-center text-2xl gap-x-2">
       <Icon name="grommet-icons:apps-rounded" />
       <NuxtLink to="/"> All Names </NuxtLink>
@@ -13,11 +12,11 @@
 </template>
 
 <script setup>
+import names from "../assets/database/names.json";
+
 const route = useRoute().params.id;
 
-// const number = Math.floor(Math.random() * 101);
-// const random = number == 0 ? number + 1 : number == 100 ? number - 1 : number;
+const data = names[parseInt(route)];
 
-const url = "https://api.aladhan.com/v1/asmaAlHusna/" + route;
-const { data } = await useFetch(url);
+console.log(data);
 </script>

@@ -1,0 +1,497 @@
+[
+  {
+    "name": "الرحمن",
+    "kurdish_meaning": "بەبەزەیی",
+    "english_meaning": "The Beneficent"
+  },
+  {
+    "name": "الرحیم",
+    "kurdish_meaning": "به‌خشنده‌",
+    "english_meaning": "The Merciful"
+  },
+  {
+    "name": "الملیك",
+    "kurdish_meaning": "موڵك بەدەست، دەسەڵاتدار",
+    "english_meaning": "The King"
+  },
+  {
+    "name": "القدوس",
+    "kurdish_meaning": "پیرۆز، پاك و بێگەرد",
+    "english_meaning": "The Purest"
+  },
+  {
+    "name": "السلام",
+    "kurdish_meaning": "بڵاوكەرەوەی ئاشتی، بێ خەوش",
+    "english_meaning": "The Source of Peace"
+  },
+  {
+    "name": "المؤمن",
+    "kurdish_meaning": "دڵنیاكەری موسوڵمانان بە بەجێهێنانی بەڵێنەكانی",
+    "english_meaning": "The inspirer of faith"
+  },
+  {
+    "name": "المهيمن",
+    "kurdish_meaning": "چاودێر و پارێزەری هەموو شتێك",
+    "english_meaning": "The Guardian"
+  },
+  {
+    "name": "العزيز",
+    "kurdish_meaning": "زاڵ و دەسەڵاتدار",
+    "english_meaning": "The All Mighty"
+  },
+  {
+    "name": "الجبار",
+    "kurdish_meaning": "خاوەن دەسەڵاتی ناچاركەر",
+    "english_meaning": "The Compeller, The Restorer"
+  },
+  {
+    "name": "المتكبر",
+    "kurdish_meaning": "زۆر گەورە",
+    "english_meaning": "The Supreme, The Majestic"
+  },
+  {
+    "name": "الخالق",
+    "kurdish_meaning": "دروستكەر و بەدیهێنەرە لە نەبوونەوە بۆ بوون",
+    "english_meaning": "The Creator"
+  },
+  {
+    "name": "البارئ",
+    "kurdish_meaning": "بەدیهێنەر و پارێزەری بەدیهێنراوەكان",
+    "english_meaning": "The Originator"
+  },
+  {
+    "name": "المصور",
+    "kurdish_meaning": "نیگاركێش و وێنەكێش",
+    "english_meaning": "The Fashioner"
+  },
+  {
+    "name": "الغفار",
+    "kurdish_meaning": "لێخۆشبوو و داپۆشەری گوناهـەكان",
+    "english_meaning": "The All- and Oft-Forgiving"
+  },
+  {
+    "name": "القهار",
+    "kurdish_meaning": "بە زەبر و بەدەسەڵات و بە توانا",
+    "english_meaning": "The Subduer, The Ever-Dominating"
+  },
+  {
+    "name": "الوهاب",
+    "kurdish_meaning": "بەخشەری بێ ئەندازە",
+    "english_meaning": "The Giver of Gifts"
+  },
+  {
+    "name": "الرزاق",
+    "kurdish_meaning": "ڕزق و ڕۆزی بەخشەر بە هەمووان",
+    "english_meaning": "The Provider"
+  },
+  {
+    "name": "الفتاح",
+    "kurdish_meaning": "دەرووكەرەوە و ئەو كەسەی لە كاتی تەنگانە دەرگایەكی پێشبینی نەكراوت بە ڕوودا دەكاتەوە",
+    "english_meaning": "The Opener, The Judge"
+  },
+  {
+    "name": "العليم",
+    "kurdish_meaning": "زانا و ئاگادار بەسەر هەمووشتێكەوە",
+    "english_meaning": "The All-Knowing, The Omniscient"
+  },
+  {
+    "name": "القابض",
+    "kurdish_meaning": "گوشەری هەموو گەردوون و بونەوەر",
+    "english_meaning": "The Withholder"
+  },
+  {
+    "name": "الباسط",
+    "kurdish_meaning": "ڕزق و ڕۆزی بەخش بەو كەسەی بیەوێت",
+    "english_meaning": "The Extender"
+  },
+  {
+    "name": "الخافض",
+    "kurdish_meaning": "نزمكەر و ڕسواكەری دوژمنانی ئایینەكەی",
+    "english_meaning": "The Reducer, The Abaser"
+  },
+  {
+    "name": "الرافع",
+    "kurdish_meaning": "بەرزكەرەوە و بڵندكەرەوەی ئەو كەسانەی دەیپەرستن",
+    "english_meaning": "The Exalter, The Elevator"
+  },
+  {
+    "name": "المعز",
+    "kurdish_meaning": "بەهێزكەر و دەسەڵات بەخش",
+    "english_meaning": "The Honourer, The Bestower"
+  },
+  {
+    "name": "المذل",
+    "kurdish_meaning": "زەلیلكەر و سەرشۆڕكەر",
+    "english_meaning": "The Dishonourer, The Humiliator"
+  },
+  {
+    "name": "السميع",
+    "kurdish_meaning": "گوێبیست بە هەموو شتێك لە دونیا و كۆتایی",
+    "english_meaning": "The All-Hearing"
+  },
+  {
+    "name": "البصير",
+    "kurdish_meaning": "بینەر بە هەموو شتێك لە دونیا و كۆتایی",
+    "english_meaning": "The All-Seeing"
+  },
+  {
+    "name": "الحكم",
+    "kurdish_meaning": "دادپەروەرترین دادوەر و ناوبژیوان",
+    "english_meaning": "The Judge, The Giver of Justice"
+  },
+  {
+    "name": "العدل",
+    "kurdish_meaning": "جێبەجێكاری دادگەری",
+    "english_meaning": "The Utterly Just"
+  },
+  {
+    "name": "اللطيف",
+    "kurdish_meaning": "نەرمونیان و بەسۆز",
+    "english_meaning": "The Subtle One, The Most Gentle"
+  },
+  {
+    "name": "الخبير",
+    "kurdish_meaning": "زانا و بە ئاگا لە هەموو كاتێك",
+    "english_meaning": "The Acquainted, the All-Aware"
+  },
+  {
+    "name": "الحليم",
+    "kurdish_meaning": "زۆر نەرم و نیان و هێدی و هێواش و بەئارام و لەسەر خۆو بێ‌ پەلە",
+    "english_meaning": "The Most Forbearing"
+  },
+  {
+    "name": "العظيم",
+    "kurdish_meaning": " زۆر گەورەو مەزن و بەتواناو بەهێزو بەدەسەڵات و شكۆدار",
+    "english_meaning": "The Magnificent, The Supreme"
+  },
+  {
+    "name": "الغفور",
+    "kurdish_meaning": "لێبوردەو لێخۆشبەرو گوناه و نهێنی داپۆش",
+    "english_meaning": "The Forgiving, The Exceedingly Forgiving"
+  },
+  {
+    "name": "الشكور",
+    "kurdish_meaning": "سوپاسگوزارو بەخشندەی خێرو چاكەو نازو نیعمەت",
+    "english_meaning": "The Most Appreciative"
+  },
+  {
+    "name": "العلي",
+    "kurdish_meaning": "بڵند و باڵا",
+    "english_meaning": "The Most High, The Exalted"
+  },
+  {
+    "name": "الكبير",
+    "kurdish_meaning": "گەورەو بەدەسەڵاتی بێ‌ سنوور لەگەورەیی و دەسەڵاتدا",
+    "english_meaning": "The Greatest, The Most Grand"
+  },
+  {
+    "name": "الحفيظ",
+    "kurdish_meaning": "پارێزەری دروستكراوەكانی لە تیاچوون و لەناو چوون‌و لەزیان پێ‌ كەوتنیان",
+    "english_meaning": "The Preserver, The All-Heedful and All-Protecting"
+  },
+  {
+    "name": "المقيت",
+    "kurdish_meaning": "فریاد ڕس و فریادكەرو بەهانا چووی دروستكراوەكانی",
+    "english_meaning": "The Sustainer"
+  },
+  {
+    "name": "الحسيب",
+    "kurdish_meaning": "ژمێریارو لێپرسەرەوەو نگاداری هەموو شتەكانی بوونەوەر.",
+    "english_meaning": "The Reckoner, The Sufficient"
+  },
+  {
+    "name": "الجليل",
+    "kurdish_meaning": "بەرزو بەڕێزو شكۆدار لەسەر هەموو بوونەوەر.",
+    "english_meaning": "The Majestic"
+  },
+  {
+    "name": "الكريم",
+    "kurdish_meaning": "زۆر سەخی و بەخشندەو بەڕێزو دەستكراوەو دەستڕۆو دەست واڵا.",
+    "english_meaning": "The Most Generous, The Most Esteemed"
+  },
+  {
+    "name": "الرقيب",
+    "kurdish_meaning": "ئاگادارو چاودێرو پەیدار بەسەر هەموو بوونەوەردا.",
+    "english_meaning": "The Watchful"
+  },
+  {
+    "name": "المجيب",
+    "kurdish_meaning": "وەڵامدەرەوەی هەموو پرس و داوحوازو ئارەزووەكانی دروستكراوەكانی.",
+    "english_meaning": "The Responsive One"
+  },
+  {
+    "name": "الواسع",
+    "kurdish_meaning": "زۆر فراوان و گوشادو بەسەلیقەو بەتوانا.",
+    "english_meaning": "The All-Encompassing, the Boundless"
+  },
+  {
+    "name": "الحكيم",
+    "kurdish_meaning": "زۆر داناو زاناو كارزان و كاربەجێ‌ و كار لەجێ‌‌و وردو لێزان.",
+    "english_meaning": "The All-Wise"
+  },
+  {
+    "name": "الودود",
+    "kurdish_meaning": "زۆر بەسۆزو خۆشەویست و دۆستدار.",
+    "english_meaning": "The Most Loving"
+  },
+  {
+    "name": "المجيد",
+    "kurdish_meaning": "زۆر پایە بەرزو سەر بەرزو سەر بڵندو شكۆدارو بەڕێز.",
+    "english_meaning": "The Glorious, The Most Honorable"
+  },
+  {
+    "name": "الباعث",
+    "kurdish_meaning": "زیندووكەرەوەو ژێنەرو نێرەرو گۆرەری سەرجەم دروستكراوەكانیەتی.",
+    "english_meaning": "The Resurrector, The Raiser of the Dead"
+  },
+  {
+    "name": "الشهيد",
+    "kurdish_meaning": "ئاگادارو زانا",
+    "english_meaning": "The All- and Ever Witnessing"
+  },
+  {
+    "name": "الحق",
+    "kurdish_meaning": "ڕاست و دروست و هەق و هەقگۆ.",
+    "english_meaning": "The Absolute Truth"
+  },
+  {
+    "name": "الوكيل",
+    "kurdish_meaning": "پشت و پەناو، دابینكەرەو دەستەبەرو فەراهەمهێنەرە.",
+    "english_meaning": "The Trustee, The Disposer of Affairs"
+  },
+  {
+    "name": "القوي",
+    "kurdish_meaning": "زۆر بەتواناو بەهێزو بەدەسەڵات و زاڵە بەسەر بوونەوەریدا.",
+    "english_meaning": "The All-Strong"
+  },
+  {
+    "name": "المتين",
+    "kurdish_meaning": "زۆر بەهێزو پتەو و بەتواناو قایم و نەگۆڕە.",
+    "english_meaning": "The Firm, The Steadfast"
+  },
+  {
+    "name": "الولي",
+    "kurdish_meaning": "دۆست و پشتیوان و هاوكارو سەرپەرشتكار.",
+    "english_meaning": "The Protecting Associate"
+  },
+  {
+    "name": "الحميد",
+    "kurdish_meaning": "سوپاسكەری بەندەكانیەتی لەسەر چاكە كردن، بەندەكانیش سوپاسی خوا دەكەن لەسەر بەخششەكانی.",
+    "english_meaning": "The Praiseworthy"
+  },
+  {
+    "name": "المحصي",
+    "kurdish_meaning": "ژمێرەرو ئاماركەری هەموو شتەكانی بوونەوەرە.",
+    "english_meaning": "The All-Enumerating, The Counter"
+  },
+  {
+    "name": "المبدئ",
+    "kurdish_meaning": "داهێنەرو دروستكەرو دەستپێكەری سەرەتای دروست كردن و بوونەوەرە.",
+    "english_meaning": "The Originator, The Initiator"
+  },
+  {
+    "name": "المعيد",
+    "kurdish_meaning": "گێڕەوەو دووپات كەرەوەی خەلق و بوونەوەرە بۆ حاڵەتی پێشوو و سەرەتا.",
+    "english_meaning": "The Restorer, The Reinstater"
+  },
+  {
+    "name": "المحيي",
+    "kurdish_meaning": "زیندووكەرەوە",
+    "english_meaning": "The Giver of Life"
+  },
+  {
+    "name": "المميت",
+    "kurdish_meaning": "مرێنەرو لەناو بەری گیانلەبەرانی هەموو بوونەوەرە.",
+    "english_meaning": "The Bringer of Death, the Destroyer"
+  },
+  {
+    "name": "الحي",
+    "kurdish_meaning": "زیندوو",
+    "english_meaning": "The Ever-Living"
+  },
+  {
+    "name": "القيوم",
+    "kurdish_meaning": "هەمیشە ڕاگرو بەرپاو ڕاوەستاوو ئامادەباش و، ڕێكخەرو بەڕێوەبەری بوونەوەر.",
+    "english_meaning": "The Sustainer, The Self-Subsisting"
+  },
+  {
+    "name": "الواجد",
+    "kurdish_meaning": "دروست كەرو بەدیهێنەرو فەراهەمهێنەری سەرجەم بوونەوەر، هەر لەكایەو هەر هەبوو.",
+    "english_meaning": "The Perceiver"
+  },
+  {
+    "name": "الماجد",
+    "kurdish_meaning": "خاوەن پلەو پایەو شكۆو ڕێزی بێ‌ شومار.",
+    "english_meaning": "The Illustrious, the Magnificent"
+  },
+  {
+    "name": "الواحد",
+    "kurdish_meaning": "تاك و تەنیاو بێ‌ هاوەڵ و بێ‌ وێنە لە خودی خۆی و لەسەرجەم ناو و كردارو سیفەتە بەرزو بەڕێزەكانی لەچاو دروست كراوەكانی خۆی.",
+    "english_meaning": "The Illustrious, the Magnificent"
+  },
+  {
+    "name": "الأحد",
+    "kurdish_meaning": "تاك",
+    "english_meaning": "The Unique, The Only One"
+  },
+  {
+    "name": "الصمد",
+    "kurdish_meaning": "بێ‌ نیازو مەبەست و جێی نیازو مەبەست‌و هیوا، لە هەموو دروستكراوەكانی بێ‌ نیازو مەبەست و بێ‌ منەتە‌و پێویستی بەهیچ شتێك نیە، جێی نیازو مەبەستی هەموو دروستكراوێكە، هەموو شتێك لە بوونەوەردا پیویستی به وه",
+    "english_meaning": "The Eternal, Satisfier of Needs"
+  },
+  {
+    "name": "القادر",
+    "kurdish_meaning": "زۆر بەتواناو بەدەسەڵات.",
+    "english_meaning": "The Capable, The Powerful"
+  },
+  {
+    "name": "المقتدر",
+    "kurdish_meaning": "سەرچاوەی هەموو هێزو دەسەڵات و توانایەك لە بوونەوەردا بۆ دروستكراوەكانی.",
+    "english_meaning": "The Omnipotent"
+  },
+  {
+    "name": "المقدم",
+    "kurdish_meaning": "پێشخەرو پێشهێنەر، هەموو شتێك دەزانێ‌ پێش هاتن و ڕودانی، دەتوانێ‌ هەمو شتێك وە پێش بخات.",
+    "english_meaning": "The Expediter, The Promoter"
+  },
+  {
+    "name": "المؤخر",
+    "kurdish_meaning": "دواخەری گشت ڕوداو و پێشهاتەكانە، دەتوانێ‌ هەموو شتێك لەكاتی خۆی ڕاگرێ‌ و دوا بخاو ڕوونەدات.",
+    "english_meaning": "The Delayer, the Retarder"
+  },
+  {
+    "name": "الأول",
+    "kurdish_meaning": "سەرەتاو یەكەمی هەموو شتێكە لە بووندا، هیچ شتێك لە بوونەوەر نەبووە، ئەو هەر هەبووەو بێ‌ سەرەتایە.",
+    "english_meaning": "The First"
+  },
+  {
+    "name": "الآخر",
+    "kurdish_meaning": "كۆتاو دوماهی هەموو شتێكە لەبوونداو، هیچ شتێك لە بوونەوەردا نامێنێ‌ و كۆتایی پێ‌ دێ‌، كەچی خوای گەورە هەر دەمێنێ‌ و بێ‌ كۆتایە و قەت لەناو ناچێ‌ و دوایی نایەت.",
+    "english_meaning": "The Last"
+  },
+  {
+    "name": "الظاهر",
+    "kurdish_meaning": "دیارو ئاشكراو هەیە، لە ڕێگەی بوونەوەرە بوونی خۆی دەنوێنێ‌‌و پەی پێ‌ دەبرێت.",
+    "english_meaning": "The Manifest"
+  },
+  {
+    "name": "الباطن",
+    "kurdish_meaning": "نهێنی و نادیارو بزرو پەردە پۆش و شاراوەو نادیدەیە لەبەر چاوی دروستكراوەكانی.",
+    "english_meaning": "The Hidden One, Knower of the Hidden"
+  },
+  {
+    "name": "الوالي",
+    "kurdish_meaning": "سەرپەرشتیارو پاشا و خاوەنی هەموو بوون و بوونەوەر.",
+    "english_meaning": "The Governor, The Patron"
+  },
+  {
+    "name": "المتعالي",
+    "kurdish_meaning": "زۆر بەرزو بەڕێزو پلەدارو بەدەسەڵات و خۆ بەرز گر.",
+    "english_meaning": "The Self Exalted"
+  },
+  {
+    "name": "البر",
+    "kurdish_meaning": "چاكەكارو بەخشندەی بێ‌ سنوور.",
+    "english_meaning": "The Source of Goodness, the Kind Benefactor"
+  },
+  {
+    "name": "التواب",
+    "kurdish_meaning": "زۆر لێخۆشبوو و تۆبە وەرگرو لێبوردەیە.",
+    "english_meaning": "The Ever-Pardoning, The Relenting"
+  },
+  {
+    "name": "المنتقم",
+    "kurdish_meaning": "تۆلە لێ سێنەرەوەی ستەمكاران و تاوانباران.",
+    "english_meaning": "The Avenger"
+  },
+  {
+    "name": "العفو",
+    "kurdish_meaning": "لێبوردەو داپۆشەری گوناه و تاوان.",
+    "english_meaning": "The Pardoner"
+  },
+  {
+    "name": "الرءوف",
+    "kurdish_meaning": "زۆر بەسۆزو بەزەیی و بەڕەحمەت لەگەڵ دروستكراوەكانیدا.",
+    "english_meaning": "The Most Kind"
+  },
+  {
+    "name": " مالك الملك",
+    "kurdish_meaning": "خاوەن و پاشاو فەرمانڕەوای هەموو ماڵ و موڵك و سەروەت و سامان و بوونێك لە بوونەوەردا.",
+    "english_meaning": "Master of the Kingdom, Owner of the Dominion"
+  },
+  {
+    "name": " ذو الجلال والإكرام",
+    "kurdish_meaning": "خاوەنی ئەو پەڕی ڕێزو پایەو شكۆ.",
+    "english_meaning": "Lord of Majesty and Generosity"
+  },
+  {
+    "name": "المقسط",
+    "kurdish_meaning": "دادگەرو دادپەروەرو دادڕەو لە حوكم و دەسەڵات و بڕیارو دابەشكردندا.",
+    "english_meaning": "The Equitable, the Requiter"
+  },
+  {
+    "name": "الجامع |الغني",
+    "kurdish_meaning": "كۆكەرەوەو گردكەرەوەو گشتگیری هەموو شتەكانی بوونەوەر.",
+    "english_meaning": "The Gatherer, the Unite"
+  },
+  {
+    "name": "الغني",
+    "kurdish_meaning": "زۆر دەوڵەمەندو بێ‌ نیازو بێ‌ ئاتاج و پێویستە لە هەموو شتێك.",
+    "english_meaning": "The Self-Sufficient, The Wealthy"
+  },
+  {
+    "name": "المغني",
+    "kurdish_meaning": "دەوڵەمەندكەری خەڵك و بوونەوەرە، هەموو بوونەوەر پێویستی بە دەوڵەمەندی ئەوە.",
+    "english_meaning": "The Enricher"
+  },
+  {
+    "name": "المانع",
+    "kurdish_meaning": "بەرگری كار، پارێزكار.",
+    "english_meaning": "The Withholder"
+  },
+  {
+    "name": "الضار",
+    "kurdish_meaning": "زیانبەخش",
+    "english_meaning": "The Distresser"
+  },
+  {
+    "name": "النافع",
+    "kurdish_meaning": "سودبەخش و زۆر بەكەڵك و بەسوود بۆ هەموو بوونەوەر.",
+    "english_meaning": "The Propitious, the Benefactor"
+  },
+  {
+    "name": "النور",
+    "kurdish_meaning": "نورو ڕوناكی و چراو درەخشان و ڕوناككەرەوەی بوونەوەرە.",
+    "english_meaning": "The Light, The Illuminator"
+  },
+  {
+    "name": "الهادي",
+    "kurdish_meaning": "هیدایەت دەرو ڕێنمایی كەرو ڕاستكەرو ڕێپیشاندەری دروستكراوەكانە.",
+    "english_meaning": "The Guide"
+  },
+  {
+    "name": "البديع",
+    "kurdish_meaning": "ئافراندن و جوانكارو داهێنەری بوون و بوونەوەرە.",
+    "english_meaning": "The Incomparable Originator"
+  },
+  {
+    "name": "الباقي",
+    "kurdish_meaning": "هەمیشە بەردەوام و هەرماوەیەو قەت لەنێو ناچێت.",
+    "english_meaning": "The Ever-Surviving, The Everlasting"
+  },
+  {
+    "name": "الوارث",
+    "kurdish_meaning": "میراتگری هەموو بوون و بوونەوەر، هەموو شتێك لەنێو دەچێ‌ و هەر ئەو دەمێنێ‌.",
+    "english_meaning": "The Inheritor, The Heir"
+  },
+  {
+    "name": "الرشيد",
+    "kurdish_meaning": "سەر ڕاست و ڕێناس و شارەزاو ڕێ‌ نیشاندەرو ڕاستە ڕێ‌ كارە.",
+    "english_meaning": "The Guide, Infallible Teacher"
+  },
+  {
+    "name": "الصبور",
+    "kurdish_meaning": "زۆر بە ئارام و لەسەر خۆو خۆڕاگرە",
+    "english_meaning": "The Forbearing, The Patient"
+  }
+]

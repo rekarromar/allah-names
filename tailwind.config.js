@@ -11,17 +11,18 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'brackets': "url(/assets/images/topography.svg)" 
+        brackets: "url(/assets/images/topography.svg)",
       },
       colors: {
-        sur: "#011936"
+        sur: "#011936",
+        "sixty-percent": "#2c3e50",
       },
       fontFamily: {
-        lexend: ['lexend', 'sans-serif'],
-        name: ['name', 'sans-serif'],
-        meaning: ['meaning', 'sans-serif'],
+        lexend: ["lexend", "sans-serif"],
+        name: ["name", "sans-serif"],
+        meaning: ["meaning", "sans-serif"],
       },
     },
   },
   plugins: [],
-}
+};

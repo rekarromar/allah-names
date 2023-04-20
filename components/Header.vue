@@ -1,8 +1,9 @@
 <template>
-  <div class="w-full">
-    <h1 class="font-bold font-lexend text-4xl text-center uppercase">
-      Allah Names
-    </h1>
+  <div class="w-full flex flex-col items-center">
+    <img src="../assets/images/NamesofGod.png" class="h-32" alt="" />
+    <h3 class="font-name text-sm text-center">
+      ... العربیة - کوردی - Turkish - فارسی
+    </h3>
   </div>
 </template>
 
