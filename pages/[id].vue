@@ -4,9 +4,11 @@
 
     <NameContainer :name="data" />
 
-    <div class="flex items-center justify-center text-2xl gap-x-2">
+    <div
+      class="flex font-name items-center justify-center text-2xl gap-x-2 uppercase"
+    >
       <Icon name="grommet-icons:apps-rounded" />
-      <NuxtLink to="/"> All Names </NuxtLink>
+      <NuxtLink to="/"> All Names</NuxtLink>
     </div>
   </div>
 </template>
@@ -16,7 +18,5 @@ import names from "../assets/database/names.json";
 
 const route = useRoute().params.id;
 
-const data = names[parseInt(route)];
-
-console.log(data);
+const data = names[parseInt(route) - 1];
 </script>
