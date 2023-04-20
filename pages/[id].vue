@@ -2,7 +2,7 @@
   <div class="flex flex-col items-center justify-between h-full">
     <div class=""></div>
 
-    <NameContainer :name="data" />
+    <NameContainer :name="data" :id="route" />
 
     <div
       class="flex font-name items-center justify-center text-2xl gap-x-2 uppercase"
