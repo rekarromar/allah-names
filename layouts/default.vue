@@ -24,6 +24,12 @@ onMounted(() => {
 
     <slot class="flex-1" />
 
-    <div class="pb-10 font-lexend">&copy; {{ year }} - {{ year - 1 }}</div>
+    <div class="pb-10 font-lexend flex flex-col items-center">
+      <a
+        href="https://raw.githubusercontent.com/rekarromar/allah-names/master/assets/database/names.json"
+        >Download Allah Names in JSON Format</a
+      >
+      <div>&copy; {{ year }} - {{ year - 1 }}</div>
+    </div>
   </div>
 </template>

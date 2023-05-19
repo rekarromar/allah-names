@@ -20,7 +20,7 @@ const languages = [
   "russian",
 ];
 const displayLanguages = [
-  "کوردی سۆرانی",
+  "کوردی",
   "فارسی",
   "Türkçe",
   "Español",
