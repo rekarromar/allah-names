@@ -1,3 +1,26 @@
+<script setup>
+const { name, id } = defineProps(["name", "id"]);
+
+const nameNext = parseInt(id) + 1;
+const nextName = nameNext.toString();
+
+const namePrev = parseInt(id) - 1;
+const prevName = namePrev.toString();
+
+const languages = [
+  "kurdish",
+  "persian",
+  "turkish",
+  "spanish",
+  "french",
+  "chinese",
+  "japanese",
+  "korean",
+  "hindi",
+  "russian",
+];
+</script>
+
 <template>
   <div class="flex flex-col items-center">
     <h1 class="font-name text-6xl text-center mt-16">{{ name.name }}</h1>
@@ -34,26 +57,3 @@
     </div>
   </div>
 </template>
-
-<script setup>
-const { name, id } = defineProps(["name", "id"]);
-
-const nameNext = parseInt(id) + 1;
-const nextName = nameNext.toString();
-
-const namePrev = parseInt(id) - 1;
-const prevName = namePrev.toString();
-
-const languages = [
-  "kurdish",
-  "persian",
-  "turkish",
-  "spanish",
-  "french",
-  "chinese",
-  "japanese",
-  "korean",
-  "hindi",
-  "russian",
-];
-</script>

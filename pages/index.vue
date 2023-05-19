@@ -57,9 +57,9 @@ const search = ref();
     <div
       class="mt-2 md:mt-0 p-1 md:p-4 grid gap-2 md:gap-5 xs:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 w-full"
     >
-      <div v-for="(name, index) in names" :key="name">
-        <NuxtLink :to="`${index + 1}`">
-          <NamesContainer :name="name" :number="index + 1" />
+      <div v-for="name in names" :key="name.id">
+        <NuxtLink :to="`${name.id}`">
+          <NamesContainer :name="name" :number="name.id" />
         </NuxtLink>
       </div>
     </div>

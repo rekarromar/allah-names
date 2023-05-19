@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "name": "الرحمن",
     "kurdish": "بەبەزەیی",
     "english": "The Beneficent",
@@ -14,6 +15,7 @@
     "russian": ""
   },
   {
+    "id": "2",
     "name": "الرحیم",
     "kurdish": "به‌خشنده‌",
     "english": "The Merciful",
@@ -28,6 +30,7 @@
     "russian": ""
   },
   {
+    "id": "3",
     "name": "الملیك",
     "kurdish": "موڵك بەدەست، دەسەڵاتدار",
     "english": "The King",
@@ -42,6 +45,7 @@
     "russian": ""
   },
   {
+    "id": "4",
     "name": "القدوس",
     "kurdish": "پیرۆز، پاك و بێگەرد",
     "english": "The Purest",
@@ -56,6 +60,7 @@
     "russian": ""
   },
   {
+    "id": "5",
     "name": "السلام",
     "kurdish": "بڵاوكەرەوەی ئاشتی، بێ خەوش",
     "english": "The Source of Peace",
@@ -70,6 +75,7 @@
     "russian": ""
   },
   {
+    "id": "6",
     "name": "المؤمن",
     "kurdish": "دڵنیاكەری موسوڵمانان بە بەجێهێنانی بەڵێنەكانی",
     "english": "The inspirer of faith",
@@ -84,6 +90,7 @@
     "russian": ""
   },
   {
+    "id": "7",
     "name": "المهيمن",
     "kurdish": "چاودێر و پارێزەری هەموو شتێك",
     "english": "The Guardian",
@@ -98,6 +105,7 @@
     "russian": ""
   },
   {
+    "id": "8",
     "name": "العزيز",
     "kurdish": "زاڵ و دەسەڵاتدار",
     "english": "The All Mighty",
@@ -112,6 +120,7 @@
     "russian": ""
   },
   {
+    "id": "9",
     "name": "الجبار",
     "kurdish": "خاوەن دەسەڵاتی ناچاركەر",
     "english": "The Compeller, The Restorer",
@@ -126,6 +135,7 @@
     "russian": ""
   },
   {
+    "id": "10",
     "name": "المتكبر",
     "kurdish": "زۆر گەورە",
     "english": "The Supreme, The Majestic",
@@ -140,6 +150,7 @@
     "russian": ""
   },
   {
+    "id": "11",
     "name": "الخالق",
     "kurdish": "دروستكەر و بەدیهێنەرە لە نەبوونەوە بۆ بوون",
     "english": "The Creator",
@@ -154,6 +165,7 @@
     "russian": ""
   },
   {
+    "id": "12",
     "name": "البارئ",
     "kurdish": "بەدیهێنەر و پارێزەری بەدیهێنراوەكان",
     "english": "The Originator",
@@ -168,6 +180,7 @@
     "russian": ""
   },
   {
+    "id": "13",
     "name": "المصور",
     "kurdish": "نیگاركێش و وێنەكێش",
     "english": "The Fashioner",
@@ -182,6 +195,7 @@
     "russian": ""
   },
   {
+    "id": "14",
     "name": "الغفار",
     "kurdish": "لێخۆشبوو و داپۆشەری گوناهـەكان",
     "english": "The All- and Oft-Forgiving",
@@ -196,6 +210,7 @@
     "russian": ""
   },
   {
+    "id": "15",
     "name": "القهار",
     "kurdish": "بە زەبر و بەدەسەڵات و بە توانا",
     "english": "The Subduer, The Ever-Dominating",
@@ -210,6 +225,7 @@
     "russian": ""
   },
   {
+    "id": "16",
     "name": "الوهاب",
     "kurdish": "بەخشەری بێ ئەندازە",
     "english": "The Giver of Gifts",
@@ -224,6 +240,7 @@
     "russian": ""
   },
   {
+    "id": "17",
     "name": "الرزاق",
     "kurdish": "ڕزق و ڕۆزی بەخشەر بە هەمووان",
     "english": "The Provider",
@@ -238,6 +255,7 @@
     "russian": ""
   },
   {
+    "id": "18",
     "name": "الفتاح",
     "kurdish": "دەرووكەرەوە و ئەو كەسەی لە كاتی تەنگانە دەرگایەكی پێشبینی نەكراوت بە ڕوودا دەكاتەوە",
     "english": "The Opener, The Judge",
@@ -252,6 +270,7 @@
     "russian": ""
   },
   {
+    "id": "19",
     "name": "العليم",
     "kurdish": "زانا و ئاگادار بەسەر هەمووشتێكەوە",
     "english": "The All-Knowing, The Omniscient",
@@ -266,6 +285,7 @@
     "russian": ""
   },
   {
+    "id": "20",
     "name": "القابض",
     "kurdish": "گوشەری هەموو گەردوون و بونەوەر",
     "english": "The Withholder",
@@ -280,6 +300,7 @@
     "russian": ""
   },
   {
+    "id": "21",
     "name": "الباسط",
     "kurdish": "ڕزق و ڕۆزی بەخش بەو كەسەی بیەوێت",
     "english": "The Extender",
@@ -294,6 +315,7 @@
     "russian": ""
   },
   {
+    "id": "22",
     "name": "الخافض",
     "kurdish": "نزمكەر و ڕسواكەری دوژمنانی ئایینەكەی",
     "english": "The Reducer, The Abaser",
@@ -308,6 +330,7 @@
     "russian": ""
   },
   {
+    "id": "23",
     "name": "الرافع",
     "kurdish": "بەرزكەرەوە و بڵندكەرەوەی ئەو كەسانەی دەیپەرستن",
     "english": "The Exalter, The Elevator",
@@ -322,6 +345,7 @@
     "russian": ""
   },
   {
+    "id": "24",
     "name": "المعز",
     "kurdish": "بەهێزكەر و دەسەڵات بەخش",
     "english": "The Honourer, The Bestower",
@@ -336,6 +360,7 @@
     "russian": ""
   },
   {
+    "id": "25",
     "name": "المذل",
     "kurdish": "زەلیلكەر و سەرشۆڕكەر",
     "english": "The Dishonourer, The Humiliator",
@@ -350,6 +375,7 @@
     "russian": ""
   },
   {
+    "id": "26",
     "name": "السميع",
     "kurdish": "گوێبیست بە هەموو شتێك لە دونیا و كۆتایی",
     "english": "The All-Hearing",
@@ -364,6 +390,7 @@
     "russian": ""
   },
   {
+    "id": "27",
     "name": "البصير",
     "kurdish": "بینەر بە هەموو شتێك لە دونیا و كۆتایی",
     "english": "The All-Seeing",
@@ -378,6 +405,7 @@
     "russian": ""
   },
   {
+    "id": "28",
     "name": "الحكم",
     "kurdish": "دادپەروەرترین دادوەر و ناوبژیوان",
     "english": "The Judge, The Giver of Justice",
@@ -392,6 +420,7 @@
     "russian": ""
   },
   {
+    "id": "29",
     "name": "العدل",
     "kurdish": "جێبەجێكاری دادگەری",
     "english": "The Utterly Just",
@@ -406,6 +435,7 @@
     "russian": ""
   },
   {
+    "id": "30",
     "name": "اللطيف",
     "kurdish": "نەرمونیان و بەسۆز",
     "english": "The Subtle One, The Most Gentle",
@@ -420,6 +450,7 @@
     "russian": ""
   },
   {
+    "id": "31",
     "name": "الخبير",
     "kurdish": "زانا و بە ئاگا لە هەموو كاتێك",
     "english": "The Acquainted, the All-Aware",
@@ -434,6 +465,7 @@
     "russian": ""
   },
   {
+    "id": "32",
     "name": "الحليم",
     "kurdish": "زۆر نەرم و نیان و هێدی و هێواش و بەئارام و لەسەر خۆو بێ‌ پەلە",
     "english": "The Most Forbearing",
@@ -448,6 +480,7 @@
     "russian": ""
   },
   {
+    "id": "33",
     "name": "العظيم",
     "kurdish": " زۆر گەورەو مەزن و بەتواناو بەهێزو بەدەسەڵات و شكۆدار",
     "english": "The Magnificent, The Supreme",
@@ -462,6 +495,7 @@
     "russian": ""
   },
   {
+    "id": "34",
     "name": "الغفور",
     "kurdish": "لێبوردەو لێخۆشبەرو گوناه و نهێنی داپۆش",
     "english": "The Forgiving, The Exceedingly Forgiving",
@@ -476,6 +510,7 @@
     "russian": ""
   },
   {
+    "id": "35",
     "name": "الشكور",
     "kurdish": "سوپاسگوزارو بەخشندەی خێرو چاكەو نازو نیعمەت",
     "english": "The Most Appreciative",
@@ -490,6 +525,7 @@
     "russian": ""
   },
   {
+    "id": "36",
     "name": "العلي",
     "kurdish": "بڵند و باڵا",
     "english": "The Most High, The Exalted",
@@ -504,6 +540,7 @@
     "russian": ""
   },
   {
+    "id": "37",
     "name": "الكبير",
     "kurdish": "گەورەو بەدەسەڵاتی بێ‌ سنوور لەگەورەیی و دەسەڵاتدا",
     "english": "The Greatest, The Most Grand",
@@ -518,6 +555,7 @@
     "russian": ""
   },
   {
+    "id": "38",
     "name": "الحفيظ",
     "kurdish": "پارێزەری دروستكراوەكانی لە تیاچوون و لەناو چوون‌و لەزیان پێ‌ كەوتنیان",
     "english": "The Preserver, The All-Heedful and All-Protecting",
@@ -532,6 +570,7 @@
     "russian": ""
   },
   {
+    "id": "39",
     "name": "المقيت",
     "kurdish": "فریاد ڕس و فریادكەرو بەهانا چووی دروستكراوەكانی",
     "english": "The Sustainer",
@@ -546,6 +585,7 @@
     "russian": ""
   },
   {
+    "id": "40",
     "name": "الحسيب",
     "kurdish": "ژمێریارو لێپرسەرەوەو نگاداری هەموو شتەكانی بوونەوەر.",
     "english": "The Reckoner, The Sufficient",
@@ -560,6 +600,7 @@
     "russian": ""
   },
   {
+    "id": "41",
     "name": "الجليل",
     "kurdish": "بەرزو بەڕێزو شكۆدار لەسەر هەموو بوونەوەر.",
     "english": "The Majestic",
@@ -574,6 +615,7 @@
     "russian": ""
   },
   {
+    "id": "42",
     "name": "الكريم",
     "kurdish": "زۆر سەخی و بەخشندەو بەڕێزو دەستكراوەو دەستڕۆو دەست واڵا.",
     "english": "The Most Generous, The Most Esteemed",
@@ -588,6 +630,7 @@
     "russian": ""
   },
   {
+    "id": "43",
     "name": "الرقيب",
     "kurdish": "ئاگادارو چاودێرو پەیدار بەسەر هەموو بوونەوەردا.",
     "english": "The Watchful",
@@ -602,6 +645,7 @@
     "russian": ""
   },
   {
+    "id": "44",
     "name": "المجيب",
     "kurdish": "وەڵامدەرەوەی هەموو پرس و داوحوازو ئارەزووەكانی دروستكراوەكانی.",
     "english": "The Responsive One",
@@ -616,6 +660,7 @@
     "russian": ""
   },
   {
+    "id": "45",
     "name": "الواسع",
     "kurdish": "زۆر فراوان و گوشادو بەسەلیقەو بەتوانا.",
     "english": "The All-Encompassing, the Boundless",
@@ -630,6 +675,7 @@
     "russian": ""
   },
   {
+    "id": "46",
     "name": "الحكيم",
     "kurdish": "زۆر داناو زاناو كارزان و كاربەجێ‌ و كار لەجێ‌‌و وردو لێزان.",
     "english": "The All-Wise",
@@ -644,6 +690,7 @@
     "russian": ""
   },
   {
+    "id": "47",
     "name": "الودود",
     "kurdish": "زۆر بەسۆزو خۆشەویست و دۆستدار.",
     "english": "The Most Loving",
@@ -658,6 +705,7 @@
     "russian": ""
   },
   {
+    "id": "48",
     "name": "المجيد",
     "kurdish": "زۆر پایە بەرزو سەر بەرزو سەر بڵندو شكۆدارو بەڕێز.",
     "english": "The Glorious, The Most Honorable",
@@ -672,6 +720,7 @@
     "russian": ""
   },
   {
+    "id": "49",
     "name": "الباعث",
     "kurdish": "زیندووكەرەوەو ژێنەرو نێرەرو گۆرەری سەرجەم دروستكراوەكانیەتی.",
     "english": "The Resurrector, The Raiser of the Dead",
@@ -686,6 +735,7 @@
     "russian": ""
   },
   {
+    "id": "50",
     "name": "الشهيد",
     "kurdish": "ئاگادارو زانا",
     "english": "The All- and Ever Witnessing",
@@ -700,6 +750,7 @@
     "russian": ""
   },
   {
+    "id": "51",
     "name": "الحق",
     "kurdish": "ڕاست و دروست و هەق و هەقگۆ.",
     "english": "The Absolute Truth",
@@ -714,6 +765,7 @@
     "russian": ""
   },
   {
+    "id": "52",
     "name": "الوكيل",
     "kurdish": "پشت و پەناو، دابینكەرەو دەستەبەرو فەراهەمهێنەرە.",
     "english": "The Trustee, The Disposer of Affairs",
@@ -728,6 +780,7 @@
     "russian": ""
   },
   {
+    "id": "53",
     "name": "القوي",
     "kurdish": "زۆر بەتواناو بەهێزو بەدەسەڵات و زاڵە بەسەر بوونەوەریدا.",
     "english": "The All-Strong",
@@ -742,6 +795,7 @@
     "russian": ""
   },
   {
+    "id": "54",
     "name": "المتين",
     "kurdish": "زۆر بەهێزو پتەو و بەتواناو قایم و نەگۆڕە.",
     "english": "The Firm, The Steadfast",
@@ -756,6 +810,7 @@
     "russian": ""
   },
   {
+    "id": "55",
     "name": "الولي",
     "kurdish": "دۆست و پشتیوان و هاوكارو سەرپەرشتكار.",
     "english": "The Protecting Associate",
@@ -770,6 +825,7 @@
     "russian": ""
   },
   {
+    "id": "56",
     "name": "الحميد",
     "kurdish": "سوپاسكەری بەندەكانیەتی لەسەر چاكە كردن، بەندەكانیش سوپاسی خوا دەكەن لەسەر بەخششەكانی.",
     "english": "The Praiseworthy",
@@ -784,6 +840,7 @@
     "russian": ""
   },
   {
+    "id": "57",
     "name": "المحصي",
     "kurdish": "ژمێرەرو ئاماركەری هەموو شتەكانی بوونەوەرە.",
     "english": "The All-Enumerating, The Counter",
@@ -798,6 +855,7 @@
     "russian": ""
   },
   {
+    "id": "58",
     "name": "المبدئ",
     "kurdish": "داهێنەرو دروستكەرو دەستپێكەری سەرەتای دروست كردن و بوونەوەرە.",
     "english": "The Originator, The Initiator",
@@ -812,6 +870,7 @@
     "russian": ""
   },
   {
+    "id": "59",
     "name": "المعيد",
     "kurdish": "گێڕەوەو دووپات كەرەوەی خەلق و بوونەوەرە بۆ حاڵەتی پێشوو و سەرەتا.",
     "english": "The Restorer, The Reinstater",
@@ -826,6 +885,7 @@
     "russian": ""
   },
   {
+    "id": "60",
     "name": "المحيي",
     "kurdish": "زیندووكەرەوە",
     "english": "The Giver of Life",
@@ -840,6 +900,7 @@
     "russian": ""
   },
   {
+    "id": "61",
     "name": "المميت",
     "kurdish": "مرێنەرو لەناو بەری گیانلەبەرانی هەموو بوونەوەرە.",
     "english": "The Bringer of Death, the Destroyer",
@@ -854,6 +915,7 @@
     "russian": ""
   },
   {
+    "id": "62",
     "name": "الحي",
     "kurdish": "زیندوو",
     "english": "The Ever-Living",
@@ -868,6 +930,7 @@
     "russian": ""
   },
   {
+    "id": "63",
     "name": "القيوم",
     "kurdish": "هەمیشە ڕاگرو بەرپاو ڕاوەستاوو ئامادەباش و، ڕێكخەرو بەڕێوەبەری بوونەوەر.",
     "english": "The Sustainer, The Self-Subsisting",
@@ -882,6 +945,7 @@
     "russian": ""
   },
   {
+    "id": "64",
     "name": "الواجد",
     "kurdish": "دروست كەرو بەدیهێنەرو فەراهەمهێنەری سەرجەم بوونەوەر، هەر لەكایەو هەر هەبوو.",
     "english": "The Perceiver",
@@ -896,6 +960,7 @@
     "russian": ""
   },
   {
+    "id": "65",
     "name": "الماجد",
     "kurdish": "خاوەن پلەو پایەو شكۆو ڕێزی بێ‌ شومار.",
     "english": "The Illustrious, the Magnificent",
@@ -910,6 +975,7 @@
     "russian": ""
   },
   {
+    "id": "66",
     "name": "الواحد",
     "kurdish": "تاك و تەنیاو بێ‌ هاوەڵ و بێ‌ وێنە لە خودی خۆی و لەسەرجەم ناو و كردارو سیفەتە بەرزو بەڕێزەكانی لەچاو دروست كراوەكانی خۆی.",
     "english": "The Illustrious, the Magnificent",
@@ -924,6 +990,7 @@
     "russian": ""
   },
   {
+    "id": "67",
     "name": "الأحد",
     "kurdish": "تاك",
     "english": "The Unique, The Only One",
@@ -938,6 +1005,7 @@
     "russian": ""
   },
   {
+    "id": "68",
     "name": "الصمد",
     "kurdish": "بێ‌ نیازو مەبەست و جێی نیازو مەبەست‌و هیوا، لە هەموو دروستكراوەكانی بێ‌ نیازو مەبەست و بێ‌ منەتە‌و پێویستی بەهیچ شتێك نیە، جێی نیازو مەبەستی هەموو دروستكراوێكە، هەموو شتێك لە بوونەوەردا پیویستی به وه",
     "english": "The Eternal, Satisfier of Needs",
@@ -952,6 +1020,7 @@
     "russian": ""
   },
   {
+    "id": "69",
     "name": "القادر",
     "kurdish": "زۆر بەتواناو بەدەسەڵات.",
     "english": "The Capable, The Powerful",
@@ -966,6 +1035,7 @@
     "russian": ""
   },
   {
+    "id": "70",
     "name": "المقتدر",
     "kurdish": "سەرچاوەی هەموو هێزو دەسەڵات و توانایەك لە بوونەوەردا بۆ دروستكراوەكانی.",
     "english": "The Omnipotent",
@@ -980,6 +1050,7 @@
     "russian": ""
   },
   {
+    "id": "71",
     "name": "المقدم",
     "kurdish": "پێشخەرو پێشهێنەر، هەموو شتێك دەزانێ‌ پێش هاتن و ڕودانی، دەتوانێ‌ هەمو شتێك وە پێش بخات.",
     "english": "The Expediter, The Promoter",
@@ -994,6 +1065,7 @@
     "russian": ""
   },
   {
+    "id": "72",
     "name": "المؤخر",
     "kurdish": "دواخەری گشت ڕوداو و پێشهاتەكانە، دەتوانێ‌ هەموو شتێك لەكاتی خۆی ڕاگرێ‌ و دوا بخاو ڕوونەدات.",
     "english": "The Delayer, the Retarder",
@@ -1008,6 +1080,7 @@
     "russian": ""
   },
   {
+    "id": "73",
     "name": "الأول",
     "kurdish": "سەرەتاو یەكەمی هەموو شتێكە لە بووندا، هیچ شتێك لە بوونەوەر نەبووە، ئەو هەر هەبووەو بێ‌ سەرەتایە.",
     "english": "The First",
@@ -1022,6 +1095,7 @@
     "russian": ""
   },
   {
+    "id": "74",
     "name": "الآخر",
     "kurdish": "كۆتاو دوماهی هەموو شتێكە لەبوونداو، هیچ شتێك لە بوونەوەردا نامێنێ‌ و كۆتایی پێ‌ دێ‌، كەچی خوای گەورە هەر دەمێنێ‌ و بێ‌ كۆتایە و قەت لەناو ناچێ‌ و دوایی نایەت.",
     "english": "The Last",
@@ -1036,6 +1110,7 @@
     "russian": ""
   },
   {
+    "id": "75",
     "name": "الظاهر",
     "kurdish": "دیارو ئاشكراو هەیە، لە ڕێگەی بوونەوەرە بوونی خۆی دەنوێنێ‌‌و پەی پێ‌ دەبرێت.",
     "english": "The Manifest",
@@ -1050,6 +1125,7 @@
     "russian": ""
   },
   {
+    "id": "76",
     "name": "الباطن",
     "kurdish": "نهێنی و نادیارو بزرو پەردە پۆش و شاراوەو نادیدەیە لەبەر چاوی دروستكراوەكانی.",
     "english": "The Hidden One, Knower of the Hidden",
@@ -1064,6 +1140,7 @@
     "russian": ""
   },
   {
+    "id": "77",
     "name": "الوالي",
     "kurdish": "سەرپەرشتیارو پاشا و خاوەنی هەموو بوون و بوونەوەر.",
     "english": "The Governor, The Patron",
@@ -1078,6 +1155,7 @@
     "russian": ""
   },
   {
+    "id": "78",
     "name": "المتعالي",
     "kurdish": "زۆر بەرزو بەڕێزو پلەدارو بەدەسەڵات و خۆ بەرز گر.",
     "english": "The Self Exalted",
@@ -1092,6 +1170,7 @@
     "russian": ""
   },
   {
+    "id": "79",
     "name": "البر",
     "kurdish": "چاكەكارو بەخشندەی بێ‌ سنوور.",
     "english": "The Source of Goodness, the Kind Benefactor",
@@ -1106,6 +1185,7 @@
     "russian": ""
   },
   {
+    "id": "80",
     "name": "التواب",
     "kurdish": "زۆر لێخۆشبوو و تۆبە وەرگرو لێبوردەیە.",
     "english": "The Ever-Pardoning, The Relenting",
@@ -1119,6 +1199,7 @@
     "russian": ""
   },
   {
+    "id": "81",
     "name": "المنتقم",
     "kurdish": "تۆلە لێ سێنەرەوەی ستەمكاران و تاوانباران.",
     "english": "The Avenger",
@@ -1133,6 +1214,7 @@
     "russian": ""
   },
   {
+    "id": "82",
     "name": "العفو",
     "kurdish": "لێبوردەو داپۆشەری گوناه و تاوان.",
     "english": "The Pardoner",
@@ -1147,6 +1229,7 @@
     "russian": ""
   },
   {
+    "id": "83",
     "name": "الرءوف",
     "kurdish": "زۆر بەسۆزو بەزەیی و بەڕەحمەت لەگەڵ دروستكراوەكانیدا.",
     "english": "The Most Kind",
@@ -1161,6 +1244,7 @@
     "russian": ""
   },
   {
+    "id": "84",
     "name": " مالك الملك",
     "kurdish": "خاوەن و پاشاو فەرمانڕەوای هەموو ماڵ و موڵك و سەروەت و سامان و بوونێك لە بوونەوەردا.",
     "english": "Master of the Kingdom, Owner of the Dominion",
@@ -1175,6 +1259,7 @@
     "russian": ""
   },
   {
+    "id": "85",
     "name": " ذو الجلال والإكرام",
     "kurdish": "خاوەنی ئەو پەڕی ڕێزو پایەو شكۆ.",
     "english": "Lord of Majesty and Generosity",
@@ -1189,6 +1274,7 @@
     "russian": ""
   },
   {
+    "id": "86",
     "name": "المقسط",
     "kurdish": "دادگەرو دادپەروەرو دادڕەو لە حوكم و دەسەڵات و بڕیارو دابەشكردندا.",
     "english": "The Equitable, the Requiter",
@@ -1203,6 +1289,7 @@
     "russian": ""
   },
   {
+    "id": "87",
     "name": "الجامع",
     "kurdish": "كۆكەرەوەو گردكەرەوەو گشتگیری هەموو شتەكانی بوونەوەر.",
     "english": "The Gatherer, the Unite",
@@ -1217,6 +1304,7 @@
     "russian": ""
   },
   {
+    "id": "88",
     "name": "الغني",
     "kurdish": "زۆر دەوڵەمەندو بێ‌ نیازو بێ‌ ئاتاج و پێویستە لە هەموو شتێك.",
     "english": "The Self-Sufficient, The Wealthy",
@@ -1231,6 +1319,7 @@
     "russian": ""
   },
   {
+    "id": "89",
     "name": "المغني",
     "kurdish": "دەوڵەمەندكەری خەڵك و بوونەوەرە، هەموو بوونەوەر پێویستی بە دەوڵەمەندی ئەوە.",
     "english": "The Enricher",
@@ -1245,6 +1334,7 @@
     "russian": ""
   },
   {
+    "id": "90",
     "name": "المانع",
     "kurdish": "بەرگری كار، پارێزكار.",
     "english": "The Withholder",
@@ -1259,6 +1349,7 @@
     "russian": ""
   },
   {
+    "id": "91",
     "name": "الضار",
     "kurdish": "زیانبەخش",
     "english": "The Distresser",
@@ -1273,6 +1364,7 @@
     "russian": ""
   },
   {
+    "id": "92",
     "name": "النافع",
     "kurdish": "سودبەخش و زۆر بەكەڵك و بەسوود بۆ هەموو بوونەوەر.",
     "english": "The Propitious, the Benefactor",
@@ -1287,6 +1379,7 @@
     "russian": ""
   },
   {
+    "id": "93",
     "name": "النور",
     "kurdish": "نورو ڕوناكی و چراو درەخشان و ڕوناككەرەوەی بوونەوەرە.",
     "english": "The Light, The Illuminator",
@@ -1301,6 +1394,7 @@
     "russian": ""
   },
   {
+    "id": "94",
     "name": "الهادي",
     "kurdish": "هیدایەت دەرو ڕێنمایی كەرو ڕاستكەرو ڕێپیشاندەری دروستكراوەكانە.",
     "english": "The Guide",
@@ -1315,6 +1409,7 @@
     "russian": ""
   },
   {
+    "id": "95",
     "name": "البديع",
     "kurdish": "ئافراندن و جوانكارو داهێنەری بوون و بوونەوەرە.",
     "english": "The Incomparable Originator",
@@ -1329,6 +1424,7 @@
     "russian": ""
   },
   {
+    "id": "96",
     "name": "الباقي",
     "kurdish": "هەمیشە بەردەوام و هەرماوەیەو قەت لەنێو ناچێت.",
     "english": "The Ever-Surviving, The Everlasting",
@@ -1343,6 +1439,7 @@
     "russian": ""
   },
   {
+    "id": "97",
     "name": "الوارث",
     "kurdish": "میراتگری هەموو بوون و بوونەوەر، هەموو شتێك لەنێو دەچێ‌ و هەر ئەو دەمێنێ‌.",
     "english": "The Inheritor, The Heir",
@@ -1357,6 +1454,7 @@
     "russian": ""
   },
   {
+    "id": "98",
     "name": "الرشيد",
     "kurdish": "سەر ڕاست و ڕێناس و شارەزاو ڕێ‌ نیشاندەرو ڕاستە ڕێ‌ كارە.",
     "english": "The Guide, Infallible Teacher",
@@ -1371,6 +1469,7 @@
     "russian": ""
   },
   {
+    "id": "99",
     "name": "الصبور",
     "kurdish": "زۆر بە ئارام و لەسەر خۆو خۆڕاگرە",
     "english": "The Forbearing, The Patient",
