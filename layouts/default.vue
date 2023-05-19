@@ -27,6 +27,8 @@ onMounted(() => {
     <div class="pb-10 font-lexend flex flex-col items-center">
       <a
         href="https://raw.githubusercontent.com/rekarromar/allah-names/master/assets/database/names.json"
+        target="blank"
+        download="allah-names.json"
         >Download Allah Names in JSON Format</a
       >
       <div>&copy; {{ year }} - {{ year - 1 }}</div>
