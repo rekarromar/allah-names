@@ -19,6 +19,18 @@ const languages = [
   "hindi",
   "russian",
 ];
+const displayLanguages = [
+  "کوردی سۆرانی",
+  "فارسی",
+  "Türkçe",
+  "Español",
+  "Français",
+  "中文",
+  "日本語 ",
+  "한국어 ",
+  "हिन्दी ",
+  "Русский ",
+];
 </script>
 
 <template>
@@ -46,12 +58,12 @@ const languages = [
       class="flex flex-col items-center text-left max-w-5xl w-full mt-16 mb-16"
     >
       <div
-        v-for="lang in languages"
+        v-for="(lang, index) in languages"
         :key="lang"
         class="flex justify-start w-full gap-2 max-w-md mb-2"
         v-show="name[lang] != ''"
       >
-        <h1 class="font-lexend font-bold">{{ lang }}:</h1>
+        <h1 class="font-name font-bold">{{ displayLanguages[index] }}:</h1>
         <h1 class="font-name">{{ name[lang] }}</h1>
       </div>
     </div>

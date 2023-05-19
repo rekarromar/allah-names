@@ -6,7 +6,7 @@
       وَلِلّهِ الأَسْمَاء الْحُسْنَى
     </h1>
     <h3 class="font-name text-sm text-center">
-      ... العربیة - کوردی - Turkish - فارسی
+      ... - 中文 - 日本語 - Русский - کوردی - Español - Turkish
     </h3>
   </div>
 </template>
