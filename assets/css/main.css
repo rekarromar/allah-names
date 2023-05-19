@@ -16,6 +16,10 @@
     font-family: "meaning";
     src: url("../fonts/meaning.ttf");
 }
+@font-face {
+    font-family: "quran";
+    src: url("../fonts/quran.ttf");
+}
 
 
 .page-enter-active,

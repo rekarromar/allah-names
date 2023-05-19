@@ -1,13 +1,29 @@
+<script setup>
+const currentDate = new Date();
+
+const year = ref(currentDate.getFullYear());
+
+const loading = ref(true);
+
+onMounted(() => {
+  setTimeout(() => {
+    loading.value = false;
+  }, 300);
+});
+</script>
+
 <template>
+  <div v-show="loading" class="h-screen flex justify-center items-center">
+    <Icon name="ion:load-c" class="animate-spin text-3xl" />
+  </div>
   <div
-    class="max-w-5xl min-w-fit mx-auto flex flex-col gap-y-7 justify-between h-screen items-center px-3 py-10 md:p-14"
+    v-show="!loading"
+    class="max-w-5xl w-full mx-auto flex flex-col gap-y-7 justify-between h-screen items-center px-3 py-10 md:p-14"
   >
     <Header class="font-roboto" />
 
     <slot class="flex-1" />
 
-    <div class=""></div>
+    <div class="pb-10 font-lexend">&copy; {{ year }} - {{ year - 1 }}</div>
   </div>
 </template>
-
-<script setup></script>

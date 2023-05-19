@@ -21,6 +21,11 @@ module.exports = {
         lexend: ["lexend", "sans-serif"],
         name: ["name", "sans-serif"],
         meaning: ["meaning", "sans-serif"],
+        quran: ["quran", "sans-serif"],
+      },
+      screens: {
+        xs: "0px",
+        sm: "360px",
       },
     },
   },
