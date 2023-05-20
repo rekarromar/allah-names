@@ -18,7 +18,7 @@ onMounted(() => {
   </div>
   <div
     v-show="!loading"
-    class="max-w-5xl w-full mx-auto flex flex-col gap-y-7 justify-between h-screen items-center px-3 py-10 md:p-14"
+    class="max-w-5xl w-full mx-auto flex flex-col gap-y-7 justify-between items-center px-3 py-10 md:p-14"
   >
     <Header class="font-roboto" />
 
