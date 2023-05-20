@@ -9,7 +9,7 @@
     "spanish": "El Clemente",
     "french": "Le Tout-Miséricordieux",
     "chinese": "至慈者",
-    "japanese": "",
+    "japanese": "慈悲深き",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -24,7 +24,7 @@
     "spanish": "El Misericordioso",
     "french": "Le Très-Miséricordieux",
     "chinese": "特慈者",
-    "japanese": "",
+    "japanese": "慈愛多き",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -39,7 +39,7 @@
     "spanish": "El Rey",
     "french": "Le Souverain",
     "chinese": "君王者",
-    "japanese": "",
+    "japanese": "王",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -54,7 +54,7 @@
     "spanish": "El Santísimo",
     "french": "Le Saint",
     "chinese": "至洁者",
-    "japanese": "",
+    "japanese": "聖なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -69,7 +69,7 @@
     "spanish": "El Salvador",
     "french": "La Paix",
     "chinese": "安宁者，赐安宁者",
-    "japanese": "",
+    "japanese": "平安なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -84,7 +84,7 @@
     "spanish": "El dispensador de Seguridad",
     "french": "La Sauvegarde",
     "chinese": "保证者",
-    "japanese": "",
+    "japanese": "信仰を守る",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -99,7 +99,7 @@
     "spanish": "El Guardián",
     "french": "Le Préservateur",
     "chinese": "守护者",
-    "japanese": "",
+    "japanese": "守護する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -114,7 +114,7 @@
     "spanish": "El Poderoso",
     "french": "Le Tout Puissant",
     "chinese": "胜利者、大能者",
-    "japanese": "",
+    "japanese": "偉大なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -129,7 +129,7 @@
     "spanish": "El Dominador",
     "french": "Celui qui domine et contraint",
     "chinese": "超越者",
-    "japanese": "",
+    "japanese": "制圧する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -144,7 +144,7 @@
     "spanish": "El Soberano Supremo",
     "french": "L'innaccessible",
     "chinese": "广博者",
-    "japanese": "",
+    "japanese": "至大なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -159,7 +159,7 @@
     "spanish": "El Creador",
     "french": "Le Créateur",
     "chinese": "创造者",
-    "japanese": "",
+    "japanese": "創造する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -174,7 +174,7 @@
     "spanish": "El Administrador y Hacedor",
     "french": "Le Producteur",
     "chinese": "从虚无中创造者",
-    "japanese": "",
+    "japanese": "創り出す",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -189,7 +189,7 @@
     "spanish": "El Formador",
     "french": "Celui qui façonne ses créatures",
     "chinese": "塑形者",
-    "japanese": "",
+    "japanese": "形を与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -204,7 +204,7 @@
     "spanish": "El Perdonador",
     "french": "Qui absout beaucoup",
     "chinese": "至恕者",
-    "japanese": "",
+    "japanese": "赦す",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -219,7 +219,7 @@
     "spanish": "El Dominador Absoluto",
     "french": "L'Irrésistible",
     "chinese": "征服者",
-    "japanese": "",
+    "japanese": "征服する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -234,7 +234,7 @@
     "spanish": "El que otorga",
     "french": "Le Très Généreux",
     "chinese": "赐福者",
-    "japanese": "",
+    "japanese": "授ける",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -249,7 +249,7 @@
     "spanish": "El Sustentador",
     "french": "Celui qui accorde la subsistance",
     "chinese": "供给者",
-    "japanese": "",
+    "japanese": "与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -264,7 +264,7 @@
     "spanish": "El que juzga con equidad / El que abre",
     "french": "Celui qui accorde la victoire",
     "chinese": "开启者",
-    "japanese": "",
+    "japanese": "解放する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -279,7 +279,7 @@
     "spanish": "El Omnisciente",
     "french": "L'Omniscient",
     "chinese": "全知者",
-    "japanese": "",
+    "japanese": "全てを知る",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -294,7 +294,7 @@
     "spanish": "El que restringe",
     "french": "Celui qui retient et qui rétracte",
     "chinese": "遏止者、整顿者",
-    "japanese": "",
+    "japanese": "差し控える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -309,7 +309,7 @@
     "spanish": "El que prodiga",
     "french": "Celui qui étend Sa générosité",
     "chinese": "宽宏者、慷慨者",
-    "japanese": "",
+    "japanese": "発展させる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -324,7 +324,7 @@
     "spanish": "El Que Da Humildad",
     "french": "Celui qui abaisse",
     "chinese": "贬谪者",
-    "japanese": "",
+    "japanese": "低める",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -339,7 +339,7 @@
     "spanish": "El Exaltado",
     "french": "Celui qui élève",
     "chinese": "擢昇者",
-    "japanese": "",
+    "japanese": "高める",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -354,7 +354,7 @@
     "spanish": "El Dispensador de Honores",
     "french": "Celui qui rend puissant",
     "chinese": "赐荣者",
-    "japanese": "",
+    "japanese": "栄誉を与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -369,7 +369,7 @@
     "spanish": "El Que Humilla",
     "french": "Celui qui humilie les fiers",
     "chinese": "施耻者",
-    "japanese": "",
+    "japanese": "卑しめる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -384,7 +384,7 @@
     "spanish": "El que todo lo oye",
     "french": "L'Audient, Celui qui entend toute chose",
     "chinese": "全听者",
-    "japanese": "",
+    "japanese": "全てを聞く",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -399,7 +399,7 @@
     "spanish": " El que todo lo ve",
     "french": "Le Voyant, Celui qui voit toute chos",
     "chinese": "全视者",
-    "japanese": "",
+    "japanese": "全てを見る",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -414,7 +414,7 @@
     "spanish": "El Juez",
     "french": "L'Arbitre",
     "chinese": "仲裁者",
-    "japanese": "",
+    "japanese": "正しく裁く",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -429,7 +429,7 @@
     "spanish": "El Justo",
     "french": "Le Juste",
     "chinese": "正义者",
-    "japanese": "",
+    "japanese": "公正なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -444,7 +444,7 @@
     "spanish": "El Sutil",
     "french": "Le Bon dans l'épreuve",
     "chinese": "微妙者",
-    "japanese": "",
+    "japanese": "心優しき",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -459,7 +459,7 @@
     "spanish": "El que está bien informado",
     "french": "Le Bien-Informé",
     "chinese": "全知者",
-    "japanese": "",
+    "japanese": "通暁している",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -474,7 +474,7 @@
     "spanish": "El Indulgente",
     "french": "Le Doux, le Très Clément",
     "chinese": "克制者、宽大者",
-    "japanese": "",
+    "japanese": "寛大なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -489,7 +489,7 @@
     "spanish": "El Grandioso",
     "french": "L'Immense, l'Eminent",
     "chinese": "绝崇者",
-    "japanese": "",
+    "japanese": "偉大なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -504,7 +504,7 @@
     "spanish": "El Perdonador / Quien perdona los pecados",
     "french": "Qui Pardonne",
     "chinese": "永恕者",
-    "japanese": "",
+    "japanese": "罪を赦す",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -519,7 +519,7 @@
     "spanish": "El Que Recompensa el Agradecimiento",
     "french": "Le Très-Reconnaissant",
     "chinese": "受谢者",
-    "japanese": "",
+    "japanese": "感謝する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -534,7 +534,7 @@
     "spanish": "El Sublime",
     "french": "L'Elevé",
     "chinese": "崇高者",
-    "japanese": "",
+    "japanese": "至高なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -549,7 +549,7 @@
     "spanish": "El Grandioso",
     "french": "L'Infiniment Grand",
     "chinese": "伟大者",
-    "japanese": "",
+    "japanese": "至大なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -564,7 +564,7 @@
     "spanish": "El Protector",
     "french": "Le Gardien",
     "chinese": "保护者",
-    "japanese": "",
+    "japanese": "守護する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -579,7 +579,7 @@
     "spanish": "El Preponderante",
     "french": "Qui nourrit tout le monde",
     "chinese": "给养者",
-    "japanese": "",
+    "japanese": "滋養する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -594,7 +594,7 @@
     "spanish": "El que computa todas las cosas",
     "french": "Qui règle le compte de tout le monde",
     "chinese": "计算者",
-    "japanese": "",
+    "japanese": "清算する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -609,7 +609,7 @@
     "spanish": "El Poderoso",
     "french": "Le Majestueux",
     "chinese": "至尊者",
-    "japanese": "",
+    "japanese": "威力ある",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -624,7 +624,7 @@
     "spanish": "El Generoso",
     "french": "Le Noble",
     "chinese": "慷慨者",
-    "japanese": "",
+    "japanese": "寛大なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -639,7 +639,7 @@
     "spanish": "El que todo lo observa",
     "french": "L'Observateur",
     "chinese": "鉴察者",
-    "japanese": "",
+    "japanese": "監視する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -654,7 +654,7 @@
     "spanish": "El que responde",
     "french": "Celui qui exauce les prières",
     "chinese": "答复者",
-    "japanese": "",
+    "japanese": "応える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -669,7 +669,7 @@
     "spanish": "El todo Comprensivo",
     "french": "Le Vaste",
     "chinese": "宽恩者",
-    "japanese": "",
+    "japanese": "包括する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -684,7 +684,7 @@
     "spanish": "El Sabio",
     "french": "Le Sage",
     "chinese": "睿智者",
-    "japanese": "",
+    "japanese": "叡智ある",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -699,7 +699,7 @@
     "spanish": "El Digno de Ser Amado",
     "french": "Qui aime beaucoup",
     "chinese": "仁慈者",
-    "japanese": "",
+    "japanese": "愛情ある",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -714,7 +714,7 @@
     "spanish": "El Glorioso",
     "french": "Le Très Glorieux",
     "chinese": "荣耀者",
-    "japanese": "",
+    "japanese": "栄光ある",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -729,7 +729,7 @@
     "spanish": "El Resurrector",
     "french": "Qui ressuscite",
     "chinese": "亡人唤醒者",
-    "japanese": "",
+    "japanese": "復活させる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -744,7 +744,7 @@
     "spanish": "El Testigo",
     "french": "Le Témoin",
     "chinese": "见证者",
-    "japanese": "",
+    "japanese": "証人",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -759,7 +759,7 @@
     "spanish": "La Verdad Absoluta",
     "french": "Le Vrai",
     "chinese": "真实者",
-    "japanese": "",
+    "japanese": "真理",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -774,7 +774,7 @@
     "spanish": "El Protector y Amparador",
     "french": "Le Tuteur",
     "chinese": "可信赖者",
-    "japanese": "",
+    "japanese": "受託する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -789,7 +789,7 @@
     "spanish": "El Poseedor de toda Fuerza",
     "french": "Le Fort",
     "chinese": "至强者",
-    "japanese": "",
+    "japanese": "強大なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -804,7 +804,7 @@
     "spanish": "El Firme",
     "french": "Le Robuste",
     "chinese": "坚定者",
-    "japanese": "",
+    "japanese": "確固たる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -819,7 +819,7 @@
     "spanish": "El Gobernador",
     "french": "Le Protecteur",
     "chinese": "亲切的朋友",
-    "japanese": "",
+    "japanese": "愛護する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -834,7 +834,7 @@
     "spanish": "El Digno de Alabanza",
     "french": "Le Louable",
     "chinese": "值得赞颂者",
-    "japanese": "",
+    "japanese": "賛美すべき",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -849,7 +849,7 @@
     "spanish": "El Calculador",
     "french": "Qui connaît les comptes de tous",
     "chinese": "清算者",
-    "japanese": "",
+    "japanese": "計量する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -864,7 +864,7 @@
     "spanish": "El Originador",
     "french": "L'Auteur",
     "chinese": "首创万物者",
-    "japanese": "",
+    "japanese": "創始する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -879,7 +879,7 @@
     "spanish": "El Restaurador",
     "french": "Qui fait rentrer tout le monde dans le néant",
     "chinese": "恢复福祉者",
-    "japanese": "",
+    "japanese": "再生させる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -894,7 +894,7 @@
     "spanish": "El que da Vida",
     "french": "Qui donne la vie",
     "chinese": "赐予生命者",
-    "japanese": "",
+    "japanese": "生を与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -909,7 +909,7 @@
     "spanish": "El Tomador de Vida",
     "french": "Qui donne la mort",
     "chinese": "赐死者、毁灭者",
-    "japanese": "",
+    "japanese": "死を与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -924,7 +924,7 @@
     "spanish": "El Viviente",
     "french": "Le Vivant",
     "chinese": "永生者",
-    "japanese": "",
+    "japanese": "永生する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -939,7 +939,7 @@
     "spanish": "El que se basta por Sí Mismo",
     "french": "L'Immuable",
     "chinese": "维持万物者、自我拥有者",
-    "japanese": "",
+    "japanese": "自存する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -954,7 +954,7 @@
     "spanish": "El Fundador Sin Necesidades",
     "french": "Qui existe",
     "chinese": "搜查者",
-    "japanese": "",
+    "japanese": "見出す",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -969,7 +969,7 @@
     "spanish": "El Glorificado",
     "french": "L'Illustre",
     "chinese": "卓越者",
-    "japanese": "",
+    "japanese": "栄光ある",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -984,7 +984,7 @@
     "spanish": "El Uno",
     "french": "L'Unique",
     "chinese": "独一者",
-    "japanese": "",
+    "japanese": "唯一なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -996,10 +996,10 @@
     "english": "The Unique, The Only One",
     "persian": "یگانه (خدایی جز او نیست)",
     "turkish": "Eşsiz, Tek",
-    "spanish": "",
-    "french": "",
+    "spanish": "El Único",
+    "french": "Le Seul",
     "chinese": "不可分割者",
-    "japanese": "",
+    "japanese": "唯一なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1014,7 +1014,7 @@
     "spanish": "El Absoluto",
     "french": "L' Eternel Seigneur",
     "chinese": "自给自足者",
-    "japanese": "",
+    "japanese": "永遠に自存する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1029,7 +1029,7 @@
     "spanish": "El Todo poderoso",
     "french": "Le Déterminant",
     "chinese": "全能者",
-    "japanese": "",
+    "japanese": "全能",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1044,7 +1044,7 @@
     "spanish": "El del poder sobre todo el universo",
     "french": "Le Tout Puissant",
     "chinese": "掌控者",
-    "japanese": "",
+    "japanese": "権能をもつ",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1059,7 +1059,7 @@
     "spanish": "El que adelanta",
     "french": "Qui a tout précédé",
     "chinese": "促进者",
-    "japanese": "",
+    "japanese": "先んじさせる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1074,7 +1074,7 @@
     "spanish": "El que retrasa",
     "french": "Qui sera après tout",
     "chinese": "延迟者",
-    "japanese": "",
+    "japanese": "遅らせる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1089,7 +1089,7 @@
     "spanish": "El Primero",
     "french": "Le Premier, dont l'existence n'a pas de début",
     "chinese": "至先者",
-    "japanese": "",
+    "japanese": "最初の",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1104,7 +1104,7 @@
     "spanish": "El Último",
     "french": "Le Dernier, dont l'existence n'a pas de fin",
     "chinese": "末后者",
-    "japanese": "",
+    "japanese": "最後の",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1119,7 +1119,7 @@
     "spanish": "El Manifiesto",
     "french": "L'Extérieur, l'Apparent",
     "chinese": "明显者",
-    "japanese": "",
+    "japanese": "顕現する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1134,7 +1134,7 @@
     "spanish": "El Oculto",
     "french": "L'Intérieur, le Caché",
     "chinese": "隐微者",
-    "japanese": "",
+    "japanese": "潜在する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1149,7 +1149,7 @@
     "spanish": "El Protector",
     "french": "Le Monarque",
     "chinese": "保护的朋友",
-    "japanese": "",
+    "japanese": "統治する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1164,7 +1164,7 @@
     "spanish": "El Exaltado",
     "french": "Le Sublime",
     "chinese": "至高者",
-    "japanese": "",
+    "japanese": "至高なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1179,7 +1179,7 @@
     "spanish": "El origen de toda bondad",
     "french": "Le Bienfaiteur",
     "chinese": "至善者",
-    "japanese": "",
+    "japanese": "慈善にあふれた",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1194,7 +1194,7 @@
     "spanish": "El Indulgente que acepta el arrepentimiento",
     "french": "Qui ne cesse d'accueillir le repentir",
     "chinese": "悔罪的接受者",
-    "japanese": "",
+    "japanese": "悔悟を受け入れる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1209,7 +1209,7 @@
     "spanish": "El Vengador",
     "french": "Le Vengeur",
     "chinese": "复仇者",
-    "japanese": "",
+    "japanese": "報復する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1224,7 +1224,7 @@
     "spanish": "El Perdonador",
     "french": "L'Indulgent",
     "chinese": "赦宥者",
-    "japanese": "",
+    "japanese": "免罪する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1239,7 +1239,7 @@
     "spanish": "El Bondadoso",
     "french": "Le Bienveillant en grâce",
     "chinese": "至慈者",
-    "japanese": "",
+    "japanese": "慈悲深き",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1254,7 +1254,7 @@
     "spanish": "El Poseedor de Todo",
     "french": "Le Maître du Pouvoir",
     "chinese": "主权拥有者",
-    "japanese": "",
+    "japanese": "王権を持つ",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1269,7 +1269,7 @@
     "spanish": "El Señor De La Majestuosidad y la Generosidad",
     "french": "Détenteur de Majesté qui mérite d'être Exalté",
     "chinese": "尊荣之主",
-    "japanese": "",
+    "japanese": "尊厳と栄誉を持つ",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1284,7 +1284,7 @@
     "spanish": "El Proveedor de Equidad",
     "french": "L'Equitable",
     "chinese": "公正者",
-    "japanese": "",
+    "japanese": "公正なる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1299,7 +1299,7 @@
     "spanish": "El Recogedor",
     "french": "Le Rassembleur",
     "chinese": "统合者",
-    "japanese": "",
+    "japanese": "統一する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1314,7 +1314,7 @@
     "spanish": "El Independientemente Rico",
     "french": "Le Riche par excellence",
     "chinese": "富有者",
-    "japanese": "",
+    "japanese": "満ち足りた",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1329,7 +1329,7 @@
     "spanish": "El Enriquecedor",
     "french": "Qui satisfait les besoins de Ses créatures",
     "chinese": "赐予财富者",
-    "japanese": "",
+    "japanese": "富を与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1344,7 +1344,7 @@
     "spanish": "El Que Previene el Daño",
     "french": "Le Défenseur",
     "chinese": "保护者",
-    "japanese": "",
+    "japanese": "禁じる",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1359,7 +1359,7 @@
     "spanish": "El Creador De lo que hace Daño",
     "french": "Qui peut nuire (à ceux qui L'offensent)",
     "chinese": "折磨者",
-    "japanese": "",
+    "japanese": "害を与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1374,7 +1374,7 @@
     "spanish": "El Creador de lo Bueno",
     "french": "L'Utile",
     "chinese": "创造善良者",
-    "japanese": "",
+    "japanese": "利益を与える",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1389,7 +1389,7 @@
     "spanish": "La Luz",
     "french": "La Lumière",
     "chinese": "光明者",
-    "japanese": "",
+    "japanese": "光",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1404,7 +1404,7 @@
     "spanish": "El Creador De La Guía",
     "french": "Le Guide",
     "chinese": "引导者",
-    "japanese": "",
+    "japanese": "導く",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1419,7 +1419,7 @@
     "spanish": "El Originador de la Creación",
     "french": "L'inventeur",
     "chinese": "无可比拟至先者",
-    "japanese": "",
+    "japanese": "創始する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1434,7 +1434,7 @@
     "spanish": "El Eterno",
     "french": "Le Permanent",
     "chinese": "克制者、永生者",
-    "japanese": "",
+    "japanese": "永続する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1449,7 +1449,7 @@
     "spanish": "El que todo lo hereda",
     "french": "L'Héritier",
     "chinese": "万物继承者",
-    "japanese": "",
+    "japanese": "相続する",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1464,7 +1464,7 @@
     "spanish": "El que guía hacia el buen camino",
     "french": "Qui agit avec droiture",
     "chinese": "指导者",
-    "japanese": "",
+    "japanese": "正道へ導く",
     "korean": "",
     "hindi": "",
     "russian": ""
@@ -1479,7 +1479,7 @@
     "spanish": "El Paciente",
     "french": "Le Patient",
     "chinese": "耐心者",
-    "japanese": "",
+    "japanese": "忍耐強い",
     "korean": "",
     "hindi": "",
     "russian": ""
